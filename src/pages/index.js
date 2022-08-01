@@ -131,6 +131,7 @@ const IndexPage = () => {
     <main style={pageStyles}>
       <title>Home Page</title>
       <h1 style={headingStyles}>
+        <script src="https://assets.adobedtm.com/35066b6d6803/9967ff8d2a4a/launch-d31833bc27c0-development.min.js" async></script>
         Congratulations
         <br />
         <span style={headingAccentStyles}>— you just made a Gatsby site! </span>
